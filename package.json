@@ -1,9 +1,9 @@
 {
   "name": "w4d2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
+    "knex": "^0.13.0",
     "pg": "^6.3.1"
   },
   "devDependencies": {},
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/79manuel/w4d2/issues"
   },
-  "homepage": "https://github.com/79manuel/w4d2#readme"
+  "homepage": "https://github.com/79manuel/w4d2#readme",
+  "description": ""
 }
