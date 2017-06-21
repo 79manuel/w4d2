@@ -1,9 +1,0 @@
-                                    Table "public.milestones"
-    Column     |          Type          |                        Modifiers                        
----------------+------------------------+---------------------------------------------------------
- id            | integer                | not null default nextval('milestones_id_seq'::regclass)
- description   | character varying(255) | 
- date_achieved | character varying(255) | 
-Indexes:
-    "milestones_pkey" PRIMARY KEY, btree (id)
-
